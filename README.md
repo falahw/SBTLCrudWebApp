@@ -12,8 +12,8 @@ PostgreSQL is used to manage database of the webapp
 Thymeleaf is preferred to because it is easier to deploy not only user interface but also for backend.
 
 # How-to-Use
-- pull or download file 'SBTLCrudWebApp-0.0.1-SNAPSHOT.jar' and 'employees_sbtl' (this is csv file)
-- use postgrsql or pgAdmin to import file 'employees_sbtl', database table will be extracted from the file
+- pull or download file 'SBTLCrudWebApp-0.0.1-SNAPSHOT.jar' and 'employees_sbtl' (this is csv file containing SQL data type)
+- use postgresql or pgAdmin to import file 'employees_sbtl', database table will be extracted from the file
 - open your terminal/prompt/console in your computer and locate file 'SBTLCrudWebApp.jar'
 - run file 'SBTLCrudWebApp.jar' by typing 'java -jar SBTLCrudWebApp.jar'
 - open your browser and type 'localhost:8080' in the web address and then hit button 'enter' on your keyboard
